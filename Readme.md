@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ZoomPictureEdit/Form1.cs) (VB: [Form1.vb](./VB/ZoomPictureEdit/Form1.vb))
+* [RepositoryItemZoomPictureEdit.cs](./CS/ZoomPictureEdit/RepositoryItemZoomPictureEdit.cs) (VB: [RepositoryItemZoomPictureEdit.vb](./VB/ZoomPictureEdit/RepositoryItemZoomPictureEdit.vb))
+* [ZoomPictureEdit.cs](./CS/ZoomPictureEdit/ZoomPictureEdit.cs) (VB: [ZoomPictureEditViewInfo.vb](./VB/ZoomPictureEdit/ZoomPictureEditViewInfo.vb))
+* [ZoomPictureEditViewInfo.cs](./CS/ZoomPictureEdit/ZoomPictureEditViewInfo.cs) (VB: [ZoomPictureEditViewInfo.vb](./VB/ZoomPictureEdit/ZoomPictureEditViewInfo.vb))
+<!-- default file list end -->
 # How to add zooming to PictureEdit
 
 
